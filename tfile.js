@@ -1,3 +1,3 @@
-module.exports.tlog = function (msg) {
-    console.log(msg)
-}
+tlog = console.log
+
+module.exports = {tlog};
