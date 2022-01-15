@@ -21,7 +21,6 @@ Step 1: git clone; Step 2: install node; Step 3: npm install
 node index.js
 
 [Click to View a Video Demo](https://watch.screencastify.com/v/ZfmlQuItfzCvkZv7iSGX)
-[Here's an example output page](./dist/index.html)
 
 ## License <a id="license"></a>
 MIT
